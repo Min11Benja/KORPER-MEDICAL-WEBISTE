@@ -1,0 +1,26 @@
+@media (max-width: 576px) {
+  .container {
+    width: 100%; } }
+
+.mb40 {
+  margin-bottom: 40px !important; }
+
+.mb30 {
+  margin-bottom: 30px !important; }
+
+.promo-box.promo-dark {
+  padding: 30px 30px 20px 30px; }
+  .promo-box.promo-dark h3, .promo-box.promo-dark p {
+    color: #000000; }
+  .promo-box.promo-dark p {
+    opacity: 0.8; }
+
+.promo-bg.promo-dark {
+  padding: 80px 0;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: top center; }
+
+.promo-box.promo-border {
+  border: 5px solid #dddddd;
+  padding: 30px 30px 20px; }
